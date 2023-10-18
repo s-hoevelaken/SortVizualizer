@@ -5,7 +5,7 @@ import random
 def generate_random_array():
     """
     Funcion generated array from 1-100 and uses random library to randomise the order.
-
+    
     RETURNS:
         random array
     """
